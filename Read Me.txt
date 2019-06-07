@@ -1,0 +1,17 @@
+What to do
+============================================================================================
+1. Create a new database and name it oes.
+2. import the file named oes.sql into your database.
+3. To login as an admin, use admin@admin.com as email and admin as password.
+4. You can register as a new student to login as a student.
+5. Enjoy.
+6. Like our facebook page https://facebook.com/keithorganisations as a sign of support.
+7. Visit https://keith.butoosa.online for new projects.
+
+=================================================================================================
+For hire Contact: keithtumusiime6@gmail.com
+youtube username: Keith Tumusiime
+cellphone: +256770786064
+
+===============================================================================================
+Thanks for connecting with us.
